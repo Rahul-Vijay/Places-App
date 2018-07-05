@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rahul/Desktop/React_Native_Projects/first-app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rahul/.android/build-cache/a4c0555ee836409f70c47b3a0eecab3994a24df3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rahul/Desktop/React_Native_Projects/first-app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rahul/.android/build-cache/a4c0555ee836409f70c47b3a0eecab3994a24df3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

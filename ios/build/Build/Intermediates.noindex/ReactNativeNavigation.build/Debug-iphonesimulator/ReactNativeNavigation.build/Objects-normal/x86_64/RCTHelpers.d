@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.m \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTScrollView.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAutoInsetsProtocol.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTScrollableProtocol.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rahul/Desktop/React_Native_Projects/first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
