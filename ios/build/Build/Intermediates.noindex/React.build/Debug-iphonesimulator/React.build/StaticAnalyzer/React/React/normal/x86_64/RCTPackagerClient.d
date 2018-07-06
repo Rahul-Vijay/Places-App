@@ -1,8 +1,0 @@
-dependencies: \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.m \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/rahul/Desktop/React_Native_Projects/first-app/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h
